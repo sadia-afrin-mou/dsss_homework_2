@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="dsss_homework_2",
+    name="math_quiz",
     version="0.1.0",
     description="A simple interactive math quiz game",
     author="Sadia Afrin Mou",
@@ -18,7 +18,7 @@ setup(
     python_requires=">=3.6",
     entry_points={
         "console_scripts": [
-            "dsss_homework_2=math_quiz.math_quiz:math_quiz",
+            "math_quiz=math_quiz.math_quiz:math_quiz",
         ],
     },
 )
