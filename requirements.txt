@@ -1,0 +1,2 @@
+# requirements.txt
+# no externel library used rather than the builit random library, thus empty requirements.txt
